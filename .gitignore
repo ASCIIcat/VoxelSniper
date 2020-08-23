@@ -39,3 +39,4 @@ dependency-reduced-pom.xml
 # Testfiles
 test.sh
 /bin/
+.vscode/settings.json
